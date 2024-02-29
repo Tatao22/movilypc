@@ -60,3 +60,8 @@ body {
     height: 10vh;
    }
   }
+  @media screen and (max-width: 600px) {
+    .tu {
+     height: 10vh;
+    }
+   }
